@@ -1,0 +1,39 @@
+@media (max-width: 600px) {
+  /* body {
+    background: linear-gradient(to right, rgba(255,154,158,0.5), rgba(250,208,196,0.5))
+  } */
+
+  .allcat-responsive-card {
+    height: 95px !important;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px !important;
+    
+  }
+
+  .all-cat-pd {
+    padding: 10px !important;
+  }
+
+  .cus-bottom-title {
+    font-size: 10px !important;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 960px) {
+  .allcat-responsive-card {
+    height: 350px;
+  }
+}
+
+@media (min-width: 961px) {
+  .allcat-responsive-card {
+    height: 450px;
+  }
+}
+
+
+.Card-box2{
+  background-color: rgb(217, 255, 231) !important;
+}
+.card-box1{
+  background-color: rgb(231, 217, 255) !important;
+}

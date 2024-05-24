@@ -1,0 +1,8 @@
+
+
+@media (max-width: 600px) {
+    .footer-mobile{
+        display: none !important;
+    }
+  
+}
